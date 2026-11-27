@@ -67,3 +67,5 @@ java -cp out Main
 ## Git workflow
 - Each member works on his own files only (see table) to avoid merge conflicts.
 - `git pull` before starting, commit small, push often.
+# Sleeping-TA-OS2
+A Java-based simulation of the Sleeping Teaching Assistant problem, demonstrating Operating Systems concepts such as multithreading, thread synchronization, semaphores, and race condition prevention.
